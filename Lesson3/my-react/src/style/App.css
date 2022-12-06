@@ -1,0 +1,14 @@
+* {
+    margin: 0.1% ;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+.App {
+display: flex;
+
+}
+.chat{
+    width: 5%;
+    margin-right: 20px;
+}
