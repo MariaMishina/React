@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing MessageList render with snapshot 1`] = `
+<DocumentFragment>
+  <h1>
+    ЧАТ
+  </h1>
+  <ul />
+</DocumentFragment>
+`;
